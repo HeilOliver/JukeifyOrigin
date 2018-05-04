@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\4ceca977d34692c2f69d7bf8e321f5c606e8c97e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\Oliver\Desktop\Jukeify\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db5d3129ac9779a4aec77755a90f9ac75aa57df7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\cb0180e12c8a82679a9ba74b3ce0f17dd4ca79a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\Oliver\Desktop\Jukeify\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f94d07b9702c37681e44d7c10783e823076cf9ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oliver\Desktop\Jukeify\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="302201aa393db2c732e131fee761299efde41846">
+        <dex dex="C:\Users\Oliver\Desktop\Jukeify\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_72b045b2cdf9ccb4bfd571dd334b8cc2e9017ede\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oliver\Desktop\Jukeify\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\Oliver\Desktop\Jukeify\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f0f9545347695a301435fb0d829e1531c00c45c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\5494ac745678b25d4b637edf943f8ca913726a52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\Oliver\Desktop\Jukeify\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3de0424c37caa91169fae7497c6c5531a635240d\classes.dex" />
+    </item>
+
+</items>
